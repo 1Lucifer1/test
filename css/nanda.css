@@ -1,6 +1,6 @@
 
 #body {
-    background:white url('./image/wood.jpg');
+    background:white url('./img/wood.jpg');
 }
 #top-panel {
     background-color: #1D011B;
@@ -10,7 +10,16 @@
 #logo-panel {
     display: table;
     padding: 6px 0px 6px 12px;
-    background-color: white url('./image/title.jpg');
+    background-color: white url('./img/title.jpg');
+}
+
+.li-i a{
+    position: relative;
+    top: 7.5px;
+    left: 5px;
+    font-size: 12px;
+    text-decoration: none;
+    color: #cdbccc;
 }
 
 
